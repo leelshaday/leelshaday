@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Developer who loves programming and is dedicated <br>to doing great work. I have skills in both front and back end development<br> and can solve complex problems with attention to detail and creativity. <br>I stay up-to-date with the latest technologies and always strive to learn <br>and improve. I am passionate about delivering high-quality work that <br>exceeds expectations and am always looking for new challenges.
+I am a Full Stack Developer who loves programming and is dedicated to doing great work. <br>I have skills in both front and back end development<br>and can solve complex problems with attention to detail and creativity. <br>I stay up-to-date with the latest technologies and always strive to learn and improve.<br>I am passionate about delivering high-quality work that exceeds expectations and am always looking for new challenges.
 
 
 ## 🌐 Socials:
